@@ -4,8 +4,3 @@ function greet() {
 }
 
 greet();
-
-function farewell() {
-  console.log("Goodbye from the main branch!");
-}
-farewell();
